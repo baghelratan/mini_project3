@@ -58,3 +58,4 @@ The project follows a structured approach to data analysis and modeling:
     ```
 3.  Open the `ratan_pratap_singh.ipynb` Jupyter Notebook.
 4.  Run all the cells in the notebook to reproduce the analysis and model results.
+colab link:https://colab.research.google.com/drive/1Ho2d1D9DELysmv0BX_sUJNGsKU8HwG9W?usp=sharing
