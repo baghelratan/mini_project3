@@ -34,6 +34,11 @@ The project follows a structured approach to data analysis and modeling:
 ### 2. Exploratory Data Analysis (EDA)
 
 -   Box plots were used to visualize the distribution of categorical features.
+-   <img width="707" height="547" alt="image" src="https://github.com/user-attachments/assets/199ea235-ab13-43b5-8bc0-e6e637374a85" />
+<img width="931" height="548" alt="image" src="https://github.com/user-attachments/assets/9ec4c2fb-5100-4111-b59c-ad9094da9584" />
+
+
+
 
 ### 3. Feature Engineering and Selection
 
